@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--  I looking for job opportunities in Canada , Australia or Europ Countries
+-     My Projects are allways up to date with latest software versions
+-     I looking for job opportunities in Canada , Australia or Europ Countries
 <!---
 arvan903/arvan903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
